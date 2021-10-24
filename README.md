@@ -9,7 +9,7 @@ A passionate frontend developer from India
 </h2>
 <br>
 
--   🔭 I’m currently working on **Contact-Keeper**
+-   🔭 I’m currently working on **employeesTweets**
 
 -   🌱 I’m currently learning **React framework**
 
