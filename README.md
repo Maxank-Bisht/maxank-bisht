@@ -8,10 +8,10 @@ A passionate frontend developer from India
 
 </h2>
 <br>
+<!-- 
+-   🔭 I’m currently working on **employeesTweets** -->
 
--   🔭 I’m currently working on **employeesTweets**
-
--   🌱 I’m currently learning **React framework**
+<!-- -   🌱 I’m currently learning **React framework** -->
 
 <!-- -   👨‍💻 All of my projects are available at [https://portfolio-by-mayank.netlify.app/](Mayank_portfolio) -->
 
